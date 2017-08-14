@@ -5,4 +5,4 @@ Mechanical Models
 
 See subdirectories as follows:
 
-* [Single-belt_transmission/](Single-belt_transmission/README.md) -- Single-belt transmission model
+* [Single-belt_transmission](Single-belt_transmission/README.md) -- Single-belt transmission model
